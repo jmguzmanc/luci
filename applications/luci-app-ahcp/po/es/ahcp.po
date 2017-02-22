@@ -28,7 +28,7 @@ msgstr ""
 
 # "Lease" en el sentido usado en DHCP no tiene una traducción clara en español y se puede usar la misma palabra en que en inglés.
 msgid "Active AHCP Leases"
-msgstr "Cesiones activas AHCP"
+msgstr "Sesiones activas AHCP"
 
 msgid "Address"
 msgstr "Dirección"
